@@ -1,0 +1,14 @@
+name: fomonms
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - pytorch==2.5.1
+  - torchvision==0.20.1
+  - pillow
+  - tqdm
+  - numpy
+  - matplotlib
+  - ipykernel
+  - einops

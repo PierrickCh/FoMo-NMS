@@ -1,0 +1,18 @@
+{
+    "config_file": null,
+    "dataset_path": "./images/data/3/",
+    "name": "img_3_fomonms_size_3_EMN_1_CA_0",
+    "lr": 0.0001,
+    "bs": 8,
+    "fourier_mode": "fomonms",
+    "CA": false,
+    "EMN": true,
+    "nms_size": 3,
+    "dim": 32,
+    "img_size": 256,
+    "lam_gan": 0.01,
+    "depth": 2,
+    "training_steps": 20000,
+    "save_every": 5000,
+    "seed": 0.0
+}
