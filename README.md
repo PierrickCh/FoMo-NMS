@@ -1,5 +1,5 @@
 # FoMo-NMS: Fourier Modulus Non-Maximum Suppression for large texture outpainting — official PyTorch code.
-## [Pierrick Chatillon](https://scholar.google.com/citations?user=8MgK55oAAAAJ&hl=en) | [Julien Rabin](https://sites.google.com/site/rabinjulien/) | [David Tschumperlé](https://tschumperle.users.greyc.fr/)
+## [Pierrick Chatillon](https://scholar.google.com/citations?user=8MgK55oAAAAJ&hl=en) | [Julien Rabin](https://sites.google.com/site/rabinjulien/) | [David Tschumperlé](https://tschumperle.users.greyc.fr/) | Mahé Duval
 
 # [Arxiv]() [HAL](https://hal.science/hal-05638129) [Paper]()
 
